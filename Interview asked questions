@@ -6,3 +6,24 @@ Ans - Java internally use call by value.
 	
 2.  
 What's your project requirement     Question from            interviewer
+
+3. Can you explain briefly about your Java experience?
+4. What role do you play in the team?
+5. Can you explain the architecture of your current project? And what technologies stack are you using?
+6. Is project based on a waterfall model or agile model?
+7. Of all the projects your worked so far, what project are you particularly proud about and why?
+8. What is the difference between StringBuffer and StringBuilder ?
+9. How can you convert a String of comma separated values that were imported from a CSV file into an Array ?
+10. Now how can you remove the duplicates from this Array ?
+11. After removing the duplicates, how can you convert the Array of Strings back to a single String without commas ?
+12. After removing the duplicates, how can you convert the Array of Strings back to a single String sepeated by dashes ?
+13. Difference between SOAP and REST WebServices
+14. What is an index with respect to database?
+15. Why should we use indexing on database?
+16. When will the indexing have inferior performance?
+17. I have a customer table with name, id, state and salary. How can you find sum of all the salaries of all the customers per state?
+18. How can you find sum of all the salaries of all the customers per state where each of the individual salary is greater than 60K?
+19. What is caching? What should be your consideration for designing a caching mechanism?
+20. If you were to implement your own caching mechanism what would some of the API calls look like?
+21. Do you have any prior experience working in JBOSS Drools? or any workflow engines?
+22. Do you have any questions for us?
