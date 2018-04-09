@@ -11,8 +11,8 @@ Rest - it is stateless.
 
 Connector
 1. HTTP
-2. Set Payload
-3. Database or JMS
+2. Set Payload(Save the data(Information) which we want to show)
+3. Database or JMS(We can take the data from both 2)
 4. Object to Json(if we are getting response in object and i want to convert in json)
 5. Transform Message
 4. JMS
