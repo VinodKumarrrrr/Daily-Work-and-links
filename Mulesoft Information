@@ -1,0 +1,49 @@
+1. Requirement
+
+Digit divicies(mobile or tab) -> Request -> mainframe
+Digit divicies(mobile or tab) <- Request <- mainframe
+
+R2ds is a excelsheet it's have table, table have rows and columns there we have request and response, segments(block) mandatory and non mandatory fields,  operation and transaction
+
+According to above r2Spec we are making the raml and from git repository we are downloading the tamplate and doing the chaning according to the method.
+
+Same Raml what we have maded we will keep in the template.
+
+Developer
+R2Spec -> operation or transaction, request response -> RAML(Restfull web service if get request schema)
+operation -> operation or transaction(Property file)
+Anypoint studio - Raml, Tamplate import, specific flow(Raml get customer detail raml(Request payload) raml hit - 
+
+Request and response payload
+
+Raml flow - ism header(channel id , operation id , saml token)
+
+request payload was diff(header or request body1)
+
+Request json object -> java -> serialtion java object->serialtion -> mq ->  marshaling(data move) fixlengh
+
+java to json - Unmarshaling
+
+Response load json object -> java -> serialtion java object->serialtion -> mq <-ummarshalling <-wmq (Data +Response) response schema or error schema
+
+post - 
+request payload (if success create)
+
+(Raml + operation and transaction and environment and mq name ) property file
+
+Security -> saml token()
+
+gerney -> authzy(Pip sapi) -> during the gerny one sapi to another sapi check customer id for same card
+
+cin(authzy) ignore all
+
+saml token - request automatic generate(Resign wise)
+git hub(Repository) -> genekin repository -> branch
+take github -> put pcf(jenkin have that script)
+
+pattern validation - header(Raml will fail the request)
+
+get method -> get customer product holding -> uri parameter -> customer id -> mainfram  -> credit card , saving acount, demate account, salary account , home lone(using active and not acting)
+
+anypoint studio configure with mulesoft
+mulesoft -> anypoint jar that are mulesoft jar -> flow
