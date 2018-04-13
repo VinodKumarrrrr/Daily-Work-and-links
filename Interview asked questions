@@ -61,4 +61,21 @@ Deloitee objective questions-
 24. Difference b/w SVN and Github?
 25. web server and application server
 26. what is retro spective
-27. 
+
+
+Barcles asked question - 
+
+1. What is HashMap?
+2. If two String have same value and if we store it in Map as a key then what will happen?
+3. Difference between ArrayList & LinkedList?
+4. Internal working of ArrayList?
+5. Difference between synchronization method & synchronization block and which one you prefer?
+6. If one class have 2 mthod m1 & m2 and I am calling these through two threads then will it work?
+7. If one class have 2 method m1 & m2 with one static method and I am calling these methods through two Threads then will it work?
+8. Difference between Component, Service & Repository annotation in Spring?
+9. Explain above Spring annotation?
+10. Which implementation did you use for Restful Web Service?
+11. Difference between GET & POST request method?
+12. Can we send empty body in POST request method?
+13. Configuration of Servlet in web.xml for Restful Web Service?
+
