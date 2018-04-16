@@ -80,3 +80,27 @@ Barcles asked question -
 13. Configuration of Servlet in web.xml for Restful Web Service?
 
  memory allocated by JVM - https://www.guru99.com/java-stack-heap.html
+ 
+ 
+ 
+ Barclays Interview Question(Prashant)
+1.	Explain OOP’s concept?
+2.	They will pickup any oops pillar and ask you question on it in deep? Mostly logical questions?
+3.	Overriding and Overloading rules and will give you 3-4 scenarios on same.
+4.	Will check your coding conversions and program structure.
+5.	Decorator design pattern and Factory pattern explanation.
+6.	Hashmap and Hashtable diff.?
+7.	Why Hashcode and equals method ?
+8.	Hibernate : States of Objects in hibernate?
+9.	Spring : in which modules u have worked in spring?
+10.	Which type of configuration you have used in Spring?(XML/Annotation).
+11.	Asked about @Bean , @Autowired  Annotations?
+12.	Scenario of Autowiring when two same object’s are to be injected. ?(use of qualifier)
+13.	What is adapter pattern tell me with example and where you will use this in TaxCalculator application?
+14.	Scopes of Beans in spring?
+15.	What is REST And SOAP?What you did consumed or produced?
+16.	Which implementation you have used in REST?
+17.	What are the methods of HTTP ?
+18.	Write Complex object representation in JSON format?
+19.	How we can extends this TaxCalculator application?
+
