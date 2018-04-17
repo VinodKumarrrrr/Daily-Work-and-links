@@ -78,29 +78,27 @@ Barcles asked question -
 11. Difference between GET & POST request method?
 12. Can we send empty body in POST request method?
 13. Configuration of Servlet in web.xml for Restful Web Service?
+14. Explain OOP’s concept?
+15. They will pickup any oops pillar and ask you question on it in deep? Mostly logical questions?
+16. Overriding and Overloading rules and will give you 3-4 scenarios on same.
+17. Will check your coding conversions and program structure.
+18. Decorator design pattern and Factory pattern explanation.
+19. Hashmap and Hashtable diff.?
+20. Why Hashcode and equals method ?
+21. Hibernate : States of Objects in hibernate?
+22. Spring : in which modules u have worked in spring?
+23. Which type of configuration you have used in Spring?(XML/Annotation).
+24. Asked about @Bean , @Autowired  Annotations?
+25. Scenario of Autowiring when two same object’s are to be injected. ?(use of qualifier)
+26. What is adapter pattern tell me with example and where you will use this in TaxCalculator application?
+27. Scopes of Beans in spring?
+28. What is REST And SOAP?What you did consumed or produced?
+29. Which implementation you have used in REST?
+30. What are the methods of HTTP ?
+31. Write Complex object representation in JSON format?
+32. How we can extends this TaxCalculator application?
 
- memory allocated by JVM - https://www.guru99.com/java-stack-heap.html
- 
- 
- 
- Barclays Interview Question(Prashant)
-1.	Explain OOP’s concept?
-2.	They will pickup any oops pillar and ask you question on it in deep? Mostly logical questions?
-3.	Overriding and Overloading rules and will give you 3-4 scenarios on same.
-4.	Will check your coding conversions and program structure.
-5.	Decorator design pattern and Factory pattern explanation.
-6.	Hashmap and Hashtable diff.?
-7.	Why Hashcode and equals method ?
-8.	Hibernate : States of Objects in hibernate?
-9.	Spring : in which modules u have worked in spring?
-10.	Which type of configuration you have used in Spring?(XML/Annotation).
-11.	Asked about @Bean , @Autowired  Annotations?
-12.	Scenario of Autowiring when two same object’s are to be injected. ?(use of qualifier)
-13.	What is adapter pattern tell me with example and where you will use this in TaxCalculator application?
-14.	Scopes of Beans in spring?
-15.	What is REST And SOAP?What you did consumed or produced?
-16.	Which implementation you have used in REST?
-17.	What are the methods of HTTP ?
-18.	Write Complex object representation in JSON format?
-19.	How we can extends this TaxCalculator application?
 
+
+Generic Link
+http://java.meritcampus.com/core-java-topics/generics-wildcards-in-java-with-examples
