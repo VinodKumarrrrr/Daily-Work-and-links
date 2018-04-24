@@ -1,5 +1,24 @@
-1. Autoboxing: Automatic conversion of primitive types to the object of their corresponding wrapper classes is known as autoboxing.
+Question1 - What is Autoboxing and Unboxing?
+
+Ans - Autoboxing: Automatic conversion of primitive types to the object of their corresponding wrapper classes is known as autoboxing.
 For example – conversion of int to Integer, long to Long, double to Double etc.
 
 Unboxing: It is just the reverse process of autoboxing. Automatically converting an object of a wrapper class to its corresponding
 primitive type is known as unboxing. For example – conversion of Integer to int, Long to long, Double to double etc.
+
+Question2 - Difference between Git and Svn?
+Ans - Git has a centralized server and repository; SVN does not have a centralized server or repository.
+      Git branches are easier to work with than SVN branches.
+      
+Question3 - Difference between ArrayList & LinkedList?
+Ans - Manipulation with ArrayList is slow because it internally uses array. If any element is removed from the array, all the bits are shifted in memory.
+Manipulation with LinkedList is faster than ArrayList because it uses doubly linked list so no bit shifting is required in memory.
+
+ArrayList class can act as a list only because it implements List only.
+LinkedList class can act as a list and queue both because it implements List and Deque interfaces.
+
+ArrayList is better for storing and accessing data.
+LinkedList is better for manipulating data.
+
+Question4 - 
+Ans - 
