@@ -3,9 +3,9 @@
 Digit divicies(mobile or tab) -> Request -> mainframe
 Digit divicies(mobile or tab) <- Request <- mainframe
 
-R2ds is a excelsheet it's have table, table have rows and columns there we have request and response, segments(block) mandatory and non mandatory fields,  operation and transaction
+R2spec is a excelsheet it's have table, table have rows and columns there we have request and response, segments(block) mandatory and non mandatory fields,  operation and transaction id.
 
-According to above r2Spec we are making the raml and from git repository we are downloading the tamplate and doing the chaning according to the method.
+According to above R2Spec we are making the raml and from git repository we are downloading the tamplate and doing the chaning according to the method.
 
 Same Raml what we have maded we will keep in the template.
 
