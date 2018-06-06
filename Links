@@ -13,10 +13,15 @@ http://www.beingjavaguys.com/2013/03/spring-hibernate-integration-tutorial.html
 
 
 
-MuleSoft Links
+MuleSoft Links-
 Anypoint Traning Link - https://training.mulesoft.com
 Design Raml - https://dzone.com/articles/design-raml-based-rest-api-using-mulesoft-anypoint
 
 
-Hibernate - 
+Hibernate- 
 Level of cache link - https://javarevisited.blogspot.com/2017/03/difference-between-first-and-second-level-cache-in-Hibernate.html
+
+
+
+Lookup an Object-
+https://docs.oracle.com/javase/tutorial/jndi/ops/lookup.html
