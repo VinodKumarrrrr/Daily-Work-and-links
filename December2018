@@ -1,4 +1,48 @@
+1. A list of most important features of Java language is given below.
+
+Java Features
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Interpreted
+High Performance
+Multithreaded
+Distributed
+Dynamic
+
+Simple
+Java is very easy to learn, and its syntax is simple, clean and easy to understand. 
+
+Platform Independent
+Java code can be run on multiple platforms, for example, Windows, Linux, Sun Solaris, Mac/OS, etc. 
+Java code is compiled by the compiler and converted into bytecode. This bytecode is a platform-independent code because 
+it can be run on multiple platforms, i.e., Write Once and Run Anywhere(WORA).
+
+Portable
+Java is portable because it facilitates you to carry the Java bytecode to any platform. 
+It doesn't require any implementation.
 
 
 
-Java code can be run on multiple platforms, for example, Windows, Linux, Sun Solaris, Mac/OS, etc. Java code is compiled by the compiler and converted into bytecode. This bytecode is a platform-independent code because it can be run on multiple platforms, i.e., Write Once and Run Anywhere(WORA).
+
+2. Basic concepts of OOPs are:
+
+Object
+Class
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+
+Polymorphism - in Java is a concept by which we can perform a single action in different ways.
+The word "poly" means many and "morphs" means forms. So polymorphism means many forms.
+
+There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism. 
+We can perform polymorphism in java by method overloading and method overriding.
+
+ 
+
