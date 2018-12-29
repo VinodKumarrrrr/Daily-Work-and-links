@@ -87,4 +87,14 @@ package com.lara;
 }
 
 
-6. 
+6. Can we run a Java program without main method?
+Ans - Many Java programmer gives you answer that they can run Java program without main method by writing code in static initializer 
+block, which is half true. Yes, code written in static initializer block is executed before calling main method, but you won't be 
+able to run a class by using Java command, or Eclipse or anything else, until it got  public static void main(String args[]) method 
+on it. If you try to run such programs, you will get following error :
+
+Error: Main method not found in class JavaAppWithoutMain, please define the main
+method as:   public static void main(String[] args)
+
+
+7. 
