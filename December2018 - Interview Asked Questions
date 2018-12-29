@@ -1,0 +1,90 @@
+1. A list of most important features of Java language is given below.
+
+Java Features
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Interpreted
+High Performance
+Multithreaded
+Distributed
+Dynamic
+
+Simple
+Java is very easy to learn, and its syntax is simple, clean and easy to understand. 
+
+Platform Independent
+Java code can be run on multiple platforms, for example, Windows, Linux, Sun Solaris, Mac/OS, etc. 
+Java code is compiled by the compiler and converted into bytecode. This bytecode is a platform-independent code because 
+it can be run on multiple platforms, i.e., Write Once and Run Anywhere(WORA).
+
+Portable
+Java is portable because it facilitates you to carry the Java bytecode to any platform. 
+It doesn't require any implementation.
+
+
+
+
+2. Basic concepts of OOPs are:
+
+Object
+Class
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+
+Polymorphism - in Java is a concept by which we can perform a single action in different ways.
+The word "poly" means many and "morphs" means forms. So polymorphism means many forms.
+
+There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism. 
+We can perform polymorphism in java by method overloading and method overriding.
+
+Interview asked questins-
+
+3. Question - Can i declare a static variable inside static member function in Java. like bellow?
+	e.g
+	private static int Fibonoci(int n) {
+	static int first=0;
+	static int second=1;
+	static int sum;
+	if(n>0)
+i am getting a error "Illegal Modifier" and if i remove static keyword there is no error and i need those variables to be static
+
+Ans - You can not declare varibale as static inside a method. 
+Inside method all variables are local variables that has no existance outside this method thats why they cann't be static.
+The Root cause: Static Variables are allocated memory at class loading time because they are part of the class and not its object.
+
+
+
+4. Question - can you override the main method in Java?
+Ans - The answer is No because main is a static method and static method cannot be overridden in Java.
+
+
+5. Question - can you overload the main method in Java?
+Ans - Yes
+
+e.g- overload the main method
+package com.lara;
+//Java Program to show that we can overload main method in Java but we cannot override main method.
+ public class Overload_Main_Method {
+	//Standard main method, JVM will only call this method even if we provided multiple overloaded version.
+	public static void main(String[] args) {
+		System.out.println("Inside main(String[] args) method ....");
+	}
+	
+	public static void main(Integer[] args) {
+		System.out.println("Inside main(Integer[] args) method ....");
+	}
+	
+	public static void main(Double[] args) {
+		System.out.println("Inside main(Double[] args) method ....");
+	}
+}
+
+
+6. 
