@@ -1,3 +1,5 @@
+Interview asked questins-
+
 1. A list of most important features of Java language is given below.
 
 Java Features
@@ -27,8 +29,6 @@ Java is portable because it facilitates you to carry the Java bytecode to any pl
 It doesn't require any implementation.
 
 
-
-
 2. Basic concepts of OOPs are:
 
 Object
@@ -44,9 +44,8 @@ The word "poly" means many and "morphs" means forms. So polymorphism means many 
 There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism. 
 We can perform polymorphism in java by method overloading and method overriding.
 
-Interview asked questins-
 
-3. Question - Can i declare a static variable inside static member function in Java. like bellow?
+3. Can i declare a static variable inside static member function in Java. like bellow?
 	e.g
 	private static int Fibonoci(int n) {
 	static int first=0;
@@ -61,11 +60,11 @@ The Root cause: Static Variables are allocated memory at class loading time beca
 
 
 
-4. Question - can you override the main method in Java?
+4. can you override the main method in Java?
 Ans - The answer is No because main is a static method and static method cannot be overridden in Java.
 
 
-5. Question - can you overload the main method in Java?
+5. can you overload the main method in Java?
 Ans - Yes
 
 e.g- overload the main method
