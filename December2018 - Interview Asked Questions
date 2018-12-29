@@ -96,4 +96,9 @@ Error: Main method not found in class JavaAppWithoutMain, please define the main
 method as:   public static void main(String[] args)
 
 
-7. 
+7. Can we make main final in Java?
+Ans - Yes, We can make the main method final in Java. JVM has no issue with that. Unlike any final method, 
+you can not override main in Java.
+
+
+8. 
