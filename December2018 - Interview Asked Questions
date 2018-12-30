@@ -100,5 +100,54 @@ method as:   public static void main(String[] args)
 Ans - Yes, We can make the main method final in Java. JVM has no issue with that. Unlike any final method, 
 you can not override main in Java.
 
+Exception handling-
+8. Question 3. Is it valid to write try block without catch block?
+class ExceptionExample {
 
-8. 
+ public static void main(String[] args) {
+  System.out.println("Value of a :"+test());
+ }
+ 
+ private static int test(){
+  int a = 10;
+  try {
+   return a;
+  }finally{
+   return a;
+  }
+ }
+}
+
+Output:  
+Value of a :10
+ 
+Yes. It is perfectly valid to write try block without catch block.
+Rule: 
+1. After try block, there can be direct finally block. OR
+2. After try block, there can be direct catch block.
+
+Note: Only try block without catch or finally is compile time error. 
+
+
+9. Differece between Compile time and Run time Error 
+
+Compile time- 
+What can go wrong at compile time:
+
+Syntax errors
+Type checking errors
+compiler crashes
+
+Run time-
+What can go wrong are run-time errors:
+
+Division by zero
+Dereferencing a null pointer
+Running out of memory
+
+Also there can be errors that are detected by the program itself:
+Trying to open a file that isn't there
+Trying find a web page and discovering that an alleged URL is not well formed
+
+
+10. 
