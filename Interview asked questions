@@ -86,15 +86,17 @@ http://java.meritcampus.com/core-java-topics/generics-wildcards-in-java-with-exa
 
 
 Virtusa Questions-
-What is Aggregation and what is Composition.
-Can we convert array to arraylist.
-which scenario i have to use map in code.
-which scenario we have to use map.
-which scenario i have to use arraylist in code.
-which scenario we have to use arraylist.
-what is cuncurrent hashmap.
-difference between wait and join.
-difference between github and SVC.
-Difference between arraylist and map.
-why use webservices.
-difference between object and class.
+1. What is Aggregation and what is Composition.
+Link- https://www.geeksforgeeks.org/association-composition-aggregation-java/
+2. Can we convert array to arraylist.
+3. which scenario i have to use map in code.
+4. which scenario we have to use map.
+5. which scenario i have to use arraylist in code.
+6. which scenario we have to use arraylist.
+7. what is cuncurrent hashmap.
+8. difference between wait and join.
+9. difference between github and SVC.
+10. Difference between arraylist and map.
+11. why use webservices.
+12. difference between object and class.
+Link- https://www.javatpoint.com/difference-between-object-and-class
